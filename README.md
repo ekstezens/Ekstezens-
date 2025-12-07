@@ -1,10 +1,13 @@
-with open('README.md', 'w', encoding='utf-8') as file:
-    file.write("""подарок от меня — https://t.me/podarok_ot_ekstezens
-🩸проект — https://t.me/+6ekJEzJmtKI4OTYy
-канал — https://t.me/ekstezenstgk
-не пиши мне, если — https://t.me/ne_pichi_mne3
+$content = @"
+A gift from me — https://t.me/podarok_ot_ekstezens
+🩸project — https://t.me/+6ekJEzJmtKI4OTYy
+channel — https://t.me/ekstezenstgk
+Don't write to me if — https://t.me/ne_pichi_mne3
 
-связь со мной — https://t.me/ekstezens
+Contact with me — https://t.me/ekstezens
 
-не несу ответственность за своих фейков!
-и мне похуй если у вас есть моя валидация 🫦""")
+I am not responsible for my fakes!
+And I don't give a fuck if you have my validation.🫦
+"@
+
+$content | Out-File -FilePath "README.md" -Encoding UTF8
