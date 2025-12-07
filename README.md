@@ -11,9 +11,9 @@
 
 **blog** — [@ekstezenstgk](https://t.me/ekstezenstgk)  
 **gifts from me** — [podarok_ot_ekstezens](https://t.me/podarok_ot_ekstezens)  
-**project** — [Telegram-чат](https://t.me/+6ekJEzJmtKI4OTYy)  
+**project** — [мой проект](https://t.me/+6ekJEzJmtKI4OTYy)  
 **Don't write to me if** — [ne_pichi_mne3](https://t.me/ne_pichi_mne3)  
-**May bot moral help** — [@dispchoria_bot](https://t.me/dispchoria_bot)
+**bot moral help** — [@dispchoria_bot](https://t.me/dispchoria_bot)
 
 <br>
 
