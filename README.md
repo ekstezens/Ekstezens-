@@ -1,30 +1,10 @@
-<div align="center">
+with open('README.md', 'w', encoding='utf-8') as file:
+    file.write("""подарок от меня — https://t.me/podarok_ot_ekstezens
+🩸проект — https://t.me/+6ekJEzJmtKI4OTYy
+канал — https://t.me/ekstezenstgk
+не пиши мне, если — https://t.me/ne_pichi_mne3
 
-## 👑
+связь со мной — https://t.me/ekstezens
 
-**The original ekstezens adapter is only here** 😌  
-*I don't have any twinkies!*
-
-<br>
-
-### 🔗 Ссылки
-
-**blog** — [@ekstezenstgk](https://t.me/ekstezenstgk)  
-**gifts from me** — [podarok_ot_ekstezens](https://t.me/podarok_ot_ekstezens)  
-**project** — [мой проект](https://t.me/+6ekJEzJmtKI4OTYy)  
-**Don't write to me if** — [ne_pichi_mne3](https://t.me/ne_pichi_mne3)  
-**bot moral help** — [@dispchoria_bot](https://t.me/dispchoria_bot)
-
-<br>
-
-### 📨 Контакт
-
-**DM** — [@ekstezens](https://t.me/ekstezens)
-
-<br>
-
----
-
-<sub><i>I'm not responsible for my fakes, the types who mow down under me.</i></sub>
-
-</div>
+не несу ответственность за своих фейков!
+и мне похуй если у вас есть моя валидация 🫦""")
